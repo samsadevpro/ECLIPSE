@@ -70,7 +70,7 @@ Un fichier chiffré vault.dat est créé pour stocker vos mots de passe.
 
 🔧 Outils utilisées
 
-| Technologie / Lib | Utilisation         |
+| Outils             | Utilisation         |
 | ----------------- | ------------------- |
 | **Python 3**      | Langage principal   |
 | **Tkinter**       | Interface graphique |
