@@ -44,3 +44,13 @@ Totalement autonome (aucune base de données)
 Fichier unique pour la portabilité
 
 Facile à modifier & améliorer
+
+📦 Installation
+1. Cloner le projet
+   
+   git clone https://github.com/<ton_nom>/<password-manager>.git
+   cd password-manager
+
+2. Installer les dépendances
+
+
